@@ -1,5 +1,5 @@
 # hicalculator
-Hicalculator is a simple Calculator made in Python!
+Hicalculator is a simple Calculator made in Python! this is one of my first projects I uploaded on GitHub!
 
 ## How to install?
 To Install you need to..
